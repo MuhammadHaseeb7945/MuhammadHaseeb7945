@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Muhammad Haseeb<br>🔭 I’m currently working on A robotic arm for automated waste segregation using AI, IoT, and Computer Vision.<br><br>👯 I’m looking to collaborate on Java-based applications and Backend Development projects.<br><br>🤝 I’m looking for help with Software architecture and scaling Computer Vision models.<br><br>🌱 I’m currently learning Java programming to master Object-Oriented Programming (OOP) and Enterprise systems.<br><br>💬 Ask me about C++, Python, Machine Learning, and Database Management.<br><br>⚡ I’ve maintained a 3.84 CGPA while teaching Computer Science part-time!
 
 
